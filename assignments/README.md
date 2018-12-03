@@ -4,7 +4,7 @@
 
 >Questons - Reverse and Uppercase
 
-![Questions](Q2.png)
+![Questions](Q2.PNG)
 
 >Number 8 - Find sunday
 
